@@ -105,17 +105,6 @@ export default function Root() {
                             <i>No contacts</i>
                         </p>
                     )}
-                    {/* <ul>
-                        <li>
-                            <a href={`/contacts/1`}>Taher (me)</a>
-                        </li>
-                        <li>
-                            <a href={`/contacts/2`}>Aymane</a>
-                        </li>
-                        <li>
-                            <a href={`/contacts/3`}>Horra</a>
-                        </li>
-                    </ul> */}
                 </nav>
             </div>
             <div id="detail"
